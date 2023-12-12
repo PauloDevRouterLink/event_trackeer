@@ -1,0 +1,22 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+.Loader {
+  width: 6rem;
+  height: 6rem;
+  border: 0.5rem solid rgba(238, 174, 202, 1);
+  border-left-color: rgba(148, 187, 233, 1);
+  border-radius: 50%;
+  animation: spinner 1s linear infinite;
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "description": "Estudar React",
+      "init": "2023-12-15T09:00",
+      "end": "2023-12-15T13:00",
+      "completed": false,
+      "id": 1642342747
+    },
+    {
+      "description": "Estudar Recoil",
+      "init": "2023-12-16T09:00",
+      "end": "2023-12-16T11:00",
+      "completed": false,
+      "id": 1642342959
+    },
+    {
+      "description": "Estudar Redux",
+      "init": "2023-12-21T09:00",
+      "end": "2023-12-21T11:00",
+      "completed": false,
+      "id": 1642564651
+    },
+    {
+      "description": "Estudar Typescript",
+      "init": "2023-12-18T09:00",
+      "end": "2023-12-18T11:00",
+      "completed": false,
+      "id": 1642345543
+    }
+  ]
+}
